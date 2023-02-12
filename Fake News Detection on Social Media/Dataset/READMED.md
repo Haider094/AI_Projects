@@ -1,1 +1,1 @@
-You can Download the Dataset from Kaggle or You can mail at wajahathaider0@gmail.com to provide the dataset.
+You have a couple of options to obtain the dataset. You can either visit Kaggle and download it from there or send an email to wajahathaider0@gmail.com to request for the dataset. Both methods provide a convenient and quick way to access the data and allow you to start working with it in no time.
