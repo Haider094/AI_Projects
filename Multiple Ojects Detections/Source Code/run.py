@@ -6,13 +6,6 @@ import numpy as np
 import time
 
 
-
-
-
-
-
-
-
 #def main():
 videoPath =0
 configPath= 'D:/Private Projects/object detaction 2/object detaction 2/frozen_inference_graph.pb'
